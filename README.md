@@ -39,7 +39,6 @@ python scripts/etl.py
 
 ## Instructions for running on AWS
 #### Edit dl.cfg file
-Do NOT publish your AWS credentials publicly.
 ```
 [AWS]
 AWS_ACCESS_KEY_ID=<AWS CREDENTIALS HERE>
